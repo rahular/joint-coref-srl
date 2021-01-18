@@ -14,7 +14,7 @@ $ pip install --editable .
 $ pip install -r dev-requirements.txt
 ```
 
-Install `pytorc-geometric` by running `scripts/install_pytg.sh`. If that fails, follow [this](https://github.com/rusty1s/pytorch_geometric/issues/1001#issuecomment-598708757)
+Install `pytorc-geometric` by following [this](https://github.com/rusty1s/pytorch_geometric/issues/1001#issuecomment-598708757) post
 
 ## Training
 
