@@ -1,4 +1,4 @@
-# coref-srl-rl
+# joint-coref-srl
 
 Code to reproduce experiments from "Joint Semantic Analysis with Document-Level Cross-Task Coherence Rewards"
 
